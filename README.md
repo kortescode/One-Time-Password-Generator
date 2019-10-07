@@ -2,7 +2,7 @@
  
 One-Time Password Generator is a Java executable (Jar). It generates one-time passwords using a time algorithm (see [FC 6238](https://tools.ietf.org/html/rfc6238)) or a HMAC algorithm (see [FC 4226](https://tools.ietf.org/html/rfc4226)).
 
-![One-Time Password Generator preview](img/preview.png)
+<img src="img/preview.png" width="500" title="One-Time Password Generator preview">
 
 ## Requirements
 
