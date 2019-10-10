@@ -1,4 +1,4 @@
-# One-Time Password Generator
+# One-Time Password Generator [![Build Status](https://travis-ci.org/kortescode/One-Time-Password-Generator.svg?branch=master)](https://travis-ci.org/kortescode/One-Time-Password-Generator)
  
 One-Time Password Generator is a Java executable (Jar). It generates one-time passwords using a time algorithm (see [FC 6238](https://tools.ietf.org/html/rfc6238)) or a HMAC algorithm (see [FC 4226](https://tools.ietf.org/html/rfc4226)).
 
